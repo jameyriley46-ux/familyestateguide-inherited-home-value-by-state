@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it as below and link to https://familyestateguide.com/estate-planning-data/inherited-home-value-by-state/
+type: dataset
+title: 'Inherited Home Value by State: Median Value of Homes Owned by Householders 65+'
+abstract: Median and mean value of owner-occupied homes headed by someone 65+, homeownership and mortgage-free rates, for 50 states + DC (Census ACS 2024 1-year, with 2020-2024 5-year check).
+authors:
+- name: Family Estate Guide
+  website: https://familyestateguide.com
+version: 1.0.0
+date-released: '2026-10-02'
+url: https://familyestateguide.com/estate-planning-data/inherited-home-value-by-state/
+repository-code: https://github.com/jameyriley46-ux/familyestateguide-inherited-home-value-by-state
+license: CC-BY-4.0
+keywords:
+- inheritance
+- home value
+- senior homeowners
+- estate planning
+- ACS
+- mortgage-free
+- homeownership
+- state data

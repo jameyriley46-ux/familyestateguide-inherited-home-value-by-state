@@ -1,0 +1,31 @@
+{
+  "upload_type": "dataset",
+  "title": "Inherited Home Value by State: Median Value of Homes Owned by Householders 65+",
+  "version": "1.0.0",
+  "description": "<p>Median and mean value of owner-occupied homes headed by someone 65+, homeownership and mortgage-free rates, for 50 states + DC (Census ACS 2024 1-year, with 2020-2024 5-year check).</p><p>Live page: <a href=\"https://familyestateguide.com/estate-planning-data/inherited-home-value-by-state/\">https://familyestateguide.com/estate-planning-data/inherited-home-value-by-state/</a>. Published by Family Estate Guide.</p><p>Rights review: None. All columns derive from Census public-domain data.</p><p>Not legal, tax, financial or medical advice. Figures are estimates with sampling error; legal rules change. Verify anything important with the original source or a qualified professional.</p>",
+  "creators": [
+    {
+      "name": "Family Estate Guide",
+      "affiliation": "Family Estate Guide"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "inheritance",
+    "home value",
+    "senior homeowners",
+    "estate planning",
+    "ACS",
+    "mortgage-free",
+    "homeownership",
+    "state data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://familyestateguide.com/estate-planning-data/inherited-home-value-by-state/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
